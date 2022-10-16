@@ -21,7 +21,7 @@ pip install gensim==3.8.1
 
 
 ## How to train model for Sanskrit
-To run proposed system: (1) Pretraining (2) Integration, then simply run bash script `run_STBC.sh` or `run_VST.sh` for the respective dataset.
+To run proposed system: (1) Pretraining (2) Integration, then simply run bash script `run_STBC.sh` or `run_VST.sh` for the respective dataset. With these scripts you will be able to reproduce our results reported in Section-3 and Table 2.
 
 ```bash
 bash run_STBC.sh
