@@ -28,8 +28,5 @@ bash run_STBC.sh
 
 ```
 
-## How to train model for any low-resource language
-Coming soon. We will update the pre-processed datasets and scripts for multiple languages reported in our work.
-
 ## Acknowledgements
 Our ensembled system is built on the top of ["DCST Implementation"](https://github.com/rotmanguy/DCST)
