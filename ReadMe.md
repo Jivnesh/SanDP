@@ -1,4 +1,4 @@
-Official code for the paper ["Systematic Investigation of Strategies Tailored for Low-Resource Settings for Low-Resource Dependency Parsing"]().
+Official code for the paper ["Systematic Investigation of Strategies Tailored for Low-Resource Settings for Low-Resource Dependency Parsing"](https://arxiv.org/abs/2201.11374).
 If you use this code please cite our paper.
 
 ## Requirements
@@ -25,6 +25,21 @@ To run proposed system: (1) Pretraining (2) Integration, then simply run bash sc
 
 ```bash
 bash run_STBC.sh
+
+```
+
+## Citations
+```
+@misc{sandhan_systematic,
+  doi = {10.48550/ARXIV.2201.11374},
+  url = {https://arxiv.org/abs/2201.11374},
+  author = {Sandhan, Jivnesh and Behera, Laxmidhar and Goyal, Pawan},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Systematic Investigation of Strategies Tailored for Low-Resource Settings for Low-Resource Dependency Parsing},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 
 ```
 
